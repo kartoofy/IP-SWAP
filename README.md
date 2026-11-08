@@ -33,7 +33,6 @@ The button can be pressed again whenever another IP reset is needed. The script 
 - Stay logged in to the modem before using the button.
 - Do not use the script on modem models or providers other than the **Huawei HG8145X6-10 from ALGERIE TELECOM**.
 - The reset may briefly interrupt the internet connection.
-- The script does not guarantee that the ISP will assign a different public IP address.
 
 ## Disclaimer
 
