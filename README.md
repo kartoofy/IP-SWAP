@@ -1,6 +1,6 @@
 # IP-SWAP
 
-A Tampermonkey userscript that adds a **Reset WAN** button to the modem interface. It performs a complete WAN reset in one click so the connection can obtain a new public IP address.
+A Violentmonkey userscript that adds a **Reset WAN** button to the modem interface. It performs a complete WAN reset in one click so the connection can obtain a new public IP address.
 
 ## Compatibility
 
