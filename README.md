@@ -8,9 +8,9 @@ A Violentmonkey userscript that adds a **Reset WAN** button to the modem interfa
 
 ## Installation
 
-1. Install [Tampermonkey](https://www.tampermonkey.net/) in your browser.
+1. Install [Violentmonkey](https://violentmonkey.github.io/) in your browser.
 2. Open `Reset WAN Button (1-click, regrab).user.js`.
-3. Create a new Tampermonkey script, paste the file contents, and save it.
+3. Create a new Violentmonkey script, paste the file contents, and save it.
 4. Log in to the modem at `http://192.168.100.1`.
 
 ## Usage
